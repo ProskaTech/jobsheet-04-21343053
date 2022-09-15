@@ -1,5 +1,10 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama  : Khalilul Afwan
+
+Nim   : 21343053
+
+Penjelasan:
+Jobsheet 3 ini membahas seputar variabel dan tipe data yang ada dalam Bahasa Pemrograman Java. Pada Latihan 1 terdapat beberapa variabel seperti integer, short, byte, long, float, dan double. Masing - masing variabel ini kemudian ditampilkan ke layar output menggunakan perintah System.out.println("");. Hal yang diperhatikan pada latihan 1 ini adalah pemanggilan variabel yang sudah didefinisikan menggunakan tanda tambah (+) setelah tanda petik dua yang diisi kalimat lalu setelah tanda tambah (+) ini ditulis nama dari variabel tersebut.
+Pada latihan 2 juga sama dengan latihan 1, yaitu pendefinisian variabel lalu ditampilkan ke layar output. Pada latihan kali ini terdapat sebuah kesalahan dari salah satu baris pada kodenya, yaitu baris ke 20 yang berisi pendefinisian variabel bertipe char dengan nama variabel myChar yang diisi dengan nilai y, tetapi penulisan nilai y ini tidak diikuti dengan tanda petik satu. Inilah yang menyebabkan error pada program ini.
+Pada latihan 3 memiliki sedikit perbedaan karena nilai variabel dipanggil terpisah dari pendefinisian nama variabelnya. Tetapi tetap memiliki perintah yang sama untuk menampilkan nilai variabel ke layar output.
+Pada Tugas 1 memiliki kesamaan dengan latihan 1, yaitu pemanggilan nilai variabel yang sudah didefinisikan.
