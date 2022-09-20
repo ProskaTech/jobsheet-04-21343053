@@ -1,5 +1,7 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Penjelasan Jobsheet 4
+Nama  : Khalilul Afwan
+
+Nim   : 21343053
+
+Penjelasan:
+Jobsheet 4 ini membahas seputar Operator pada Bahasa Pemrograman Java. Terdapat 7 buah latihan dan 2 tugas pada Jobsheet ini. Latihan pertama membahas tentang operator aritmatika yang digunakan pada penjumlahan variabel, latihan kedua membahas tentang operator relasi (benar atau salahnya ditentukan oleh kondisi relasi dan nilai dari variabel itu sendiri), latihan ketiga membahas tentang operator logika dan Boolean AND untuk menampilkan apakah dengan kondisi yang ditetapkan menghasilkan variabel bernilai benar atau salah, latihan keempat membahas tentang operator logika dan Boolean OR, latihan kelima membahas tentang operator logika NOT yang mana kedua latihan ini memiliki kesamaan dalam penggunaannya, latihan keenam dan ketujuh membahas tentang operator ternary/kondisi (?:) yang berfungsi untuk menampilkan hasil dari penentuan nilai variabel berdasarkan kondisi yang ditetapkan (dibandingkan). Pada tugas yang pertama membahas tentang operator aritmatika yang dalam tugas 1 ini digunakan untuk menghitung nilai rata rata dari beberapa variabael yang diberikan. Untuk tugas nomor 2 memiliki kemiripan dengan latihan 6 dan 7, yaitu menggunakan operator ternary/kondisi (?:) untuk menentukan nilai terbesar dari beberapa variabel yang diberikan.
